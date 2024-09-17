@@ -1,3 +1,7 @@
+Here's the updated README file with the new link for the summary report:
+
+---
+
 # GitHub Repository Analytics Tool
 
 ## Overview
@@ -10,6 +14,7 @@ This project provides an interactive dashboard for analyzing GitHub repository d
 4. [Pull Request Visualizations](#pull-request-visualizations)
 5. [Commit Visualizations](#commit-visualizations)
 6. [Installation and Execution](#installation-and-execution)
+7. [Summary Report](#summary-report)
 
 ---
 
@@ -182,5 +187,13 @@ If you encounter any issues while running the app, ensure that all dependencies 
 
 ---
 
+## Summary Report <a name="summary-report"></a>
+
+For a comprehensive summary report of the GitHub Repository Analytics Tool, including methodology, findings, and recommendations, please refer to the [Summary Report](https://docs.google.com/document/d/1OTQQY6wwZToImEzKnmw6fA9791hZJOrv92s873ThbA8/edit).
+
+---
+
 ## Conclusion
 This GitHub Repository Analytics Tool provides a comprehensive interface for analyzing repository data, generating visualizations, and using NLP queries to gain insights. Through its integration of GitHub API, Plotly, and Google's Gemini AI, the tool offers a powerful and interactive way to monitor repository activity and developer contributions.
+
+---
