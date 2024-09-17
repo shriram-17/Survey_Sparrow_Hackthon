@@ -1,0 +1,33 @@
+sha,author,date,message
+2f5a45e5561f0d99e4328eac02d93358d2489d63,paragbhingre,2022-08-26 16:28:00+00:00,Reverting accidentally added changes
+8218e24b649cc40482fd39adc544ffd9dbcf1f92,paragbhingre,2022-08-08 01:06:19+00:00,add copilot changes
+971eb062f202f6ec5260051d446a174a8f5823d4,paragbhingre,2022-06-17 21:33:22+00:00,change manifest
+70aa1d20aab29c027d965408b7e671d774572c92,paragbhingre,2022-06-17 21:19:53+00:00,change buildspec
+0f9cc9f24429da770761828103fcf23426485e57,paragbhingre,2022-06-17 21:15:42+00:00,change buildspec
+19095a9db59d5df184112b73cf9c503682c77832,paragbhingre,2022-06-17 19:53:47+00:00,change buildspec
+5eb08b69ba3f7d7f1ae2e3b6de1d47a3fa5e3f08,paragbhingre,2022-06-17 19:20:48+00:00,change count
+49596f4848affc04815c5ca049380908419c5f22,paragbhingre,2022-06-17 19:13:16+00:00,change count
+8b793b96046cdd09d908614575221a4fb14e014d,paragbhingre,2022-06-17 18:59:46+00:00,change count
+57ec8266a99e0219ef399979f0fcc94431e05ca4,paragbhingre,2022-06-17 18:21:20+00:00,Merge branch 'master' of https://github.com/aws-samples/aws-copilot-sample-service
+c519d76bd26a198492265bd3bf932ce01fef41b7,paragbhingre,2022-06-17 18:17:52+00:00,Adding pipeline artifacts
+b8bb4e76ccbdc875ba29fa16208ca75e0db14e61,paragbhingre,2022-06-17 17:58:40+00:00,Adding pipeline artifacts
+2778cc1a3e6ab0b5fbafd97f740c17be704e22d6,paragbhingre,2022-06-17 17:45:17+00:00,Adding pipeline artifacts
+e765e6981ff2cce9df73170214cd99b3ea93600b,kohidave,2021-04-30 20:23:10+00:00,"Update README.md
+
+Remove unneeded flags."
+03b2b5c7dd621199261e94346dbaae3e631e61bd,kohidave,2021-04-30 20:16:22+00:00,"Merge pull request #4 from YYSU/master
+
+Update copilot init command in Readme"
+4db39f9edb2022edac3c29475b8a21ab9827b19d,yenyuns,2021-04-30 16:26:08+00:00,Update copilot init command in Readme
+c5609dd7d5f825cd337192b4706f4177ac7cea5f,kohidave,2021-03-12 19:40:15+00:00,"Merge pull request #3 from iamhopaul123/master
+
+chore: change the base image to main nginx"
+ebd4370359e5bd834ecf0e63bfc8e64ad9bd6a56,iamhopaul123,2021-03-12 19:17:49+00:00,chore: change the base image to main nginx
+ea77afd8223a19b63b834db25b4b5fa55917f0ca,kohidave,2021-02-17 19:28:36+00:00,"Merge pull request #2 from guan840912/fix/docker-hub-download-limits
+
+fix: docker-hub-download-limits"
+3eb4c6406436788d68be4e97d9669d41f220e6ea,neilkuan,2021-02-08 03:07:43+00:00,fix: docker-hub-download-limits
+f8d65d43d63bb0c3c3cbec0a64d4519475bbc810,kohidave,2020-06-25 19:20:34+00:00,Update typos in Readme
+8f60cc75a5d885e90df87de233804082bfed6ca6,kohidave,2020-06-25 19:05:58+00:00,Add port
+767363ab6f31a4245e3a383fbfac1eeba72ad5b4,kohidave,2020-06-25 18:50:21+00:00,sample service code
+54e8aaea5dc627e83d7a10d2933853ae1a46c72c,amazon-auto,2020-06-25 18:46:44+00:00,Initial commit

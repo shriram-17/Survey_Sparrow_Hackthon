@@ -1,0 +1,7 @@
+# Ignore .env file
+.env
+
+# Ignore __pycache__ directories in all modules
+**/__pycache__/
+
+venv/
